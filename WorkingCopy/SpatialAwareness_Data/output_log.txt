@@ -6,19 +6,20 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     3072 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-Boo.dll (this message is harmless)
-Loading C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-Boo.dll into Unity Child Domain
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-Boo.dll (this message is harmless)
+Loading C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-Boo.dll into Unity Child Domain
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\Boo.Lang.dll (this message is harmless)
 (x:432.13, y:384.00, width:159.74, height:105.22)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -48,11 +49,27 @@ Got Here
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
-UnloadTime: 0.638157 ms
+UnloadTime: 0.328700 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1222.
-Total: 0.590357 ms (FindLiveObjects: 0.028866 ms CreateObjectMapping: 0.010863 ms MarkObjects: 0.143399 ms  DeleteObjects: 0.058042 ms)
+Total: 0.502517 ms (FindLiveObjects: 0.029797 ms CreateObjectMapping: 0.011173 ms MarkObjects: 0.120120 ms  DeleteObjects: 0.031969 ms)
 
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\build\SpatialAwareness_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Sabitsuki\Documents\491 Files\SpatialMemory2014Unity\WorkingCopy\SpatialAwareness_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 5.977756 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 158 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 3.866810 ms (FindLiveObjects: 0.027934 ms CreateObjectMapping: 0.027934 ms MarkObjects: 0.332735 ms  DeleteObjects: 2.325114 ms)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 0.401641 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1221.
+Total: 0.634742 ms (FindLiveObjects: 0.040971 ms CreateObjectMapping: 0.014588 ms MarkObjects: 0.216961 ms  DeleteObjects: 0.036315 ms)
+
+EXIT
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
